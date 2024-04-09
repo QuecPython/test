@@ -1,0 +1,6 @@
+[submodule "test2"]
+	path = test2
+	url = https://github.com/QuecPython/test2.git
+[submodule "test3"]
+	path = test3
+	url = https://github.com/QuecPython/test3.git
